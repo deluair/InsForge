@@ -45,10 +45,10 @@
     "react-data-grid": "7.0.0-beta.47",
     "react-dom": "^19.2.1",
     "react-hook-form": "^7.61.1",
-    "react-router-dom": "^7.7.0",
+    "react-router-dom": "^7.15.1",
     "socket.io-client": "^4.8.1",
     "tailwind-merge": "^3.3.1",
-    "uuid": "^11.1.0",
+    "uuid": "^14.0.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
@@ -62,7 +62,7 @@
     "jsdom": "^26.1.0",
     "tailwindcss": "^4.1.11",
     "tailwindcss-animate": "^1.0.7",
-    "vite": "^7.0.5",
+    "vite": "^7.3.3",
     "vite-plugin-svgr": "^4.3.0"
   }
 }
